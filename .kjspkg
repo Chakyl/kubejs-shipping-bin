@@ -9,7 +9,7 @@
     ],
     "dependencies": [
         "mod:powerfuljs",
-        "mod:shipping-bin"
+        "mod:shippingbin"
     ],
     "incompatibilities": []
 }
