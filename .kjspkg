@@ -1,0 +1,15 @@
+{
+    "author": "Chakyl",
+    "description": "Adds a Shipping Bin for selling resources into currency. Supports Create: Numismatics by default but any items can be used for currency.",
+    "versions": [
+        10
+    ],
+    "modloaders": [
+        "forge"
+    ],
+    "dependencies": [
+        "mod:1058468",
+        "mod:819845"
+    ],
+    "incompatibilities": []
+}
