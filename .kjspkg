@@ -8,8 +8,8 @@
         "forge"
     ],
     "dependencies": [
-        "mod:1058468",
-        "mod:819845"
+        "mod:powerfuljs",
+        "mod:shipping-bin"
     ],
     "incompatibilities": []
 }
